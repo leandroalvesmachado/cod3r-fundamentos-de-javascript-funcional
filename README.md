@@ -11,14 +11,25 @@
 * Introdução
     - [x] Introdução
     - [x] Terminais
-* [Tabela de Conteudo](#tabela-de-conteudo)
-* [Instalação](#instalacao)
-* [Como usar](#como-usar)
-    * [Pre Requisitos](#pre-requisitos)
-    * [Local files](#local-files)
-    * [Remote files](#remote-files)
-    * [Multiple files](#multiple-files)
-    * [Combo](#combo)
-* [Tests](#testes)
-* [Tecnologias](#tecnologias)
+* Fundamentos
+    - [x] Anatomia da Função #01
+    - [x] Anatomia da Função #02
+    - [x] Anatomia da Função #03
+    - [x] Anatomia da Função #04
+    - [x] Parâmetros
+    - [x] Desafio
+    - [x] Desafio #01 - Resposta
+* Programação Funcional
+    - [x] First-Class Function
+    - [x] Higher-Order Function #01
+    - [x] Higher-Order Function #02
+    - [x] Map #01
+    - [x] Map #02
+    - [x] Filter #01
+    - [] Filter #02
+    - [] Reduce #01
+    - [] Reduce #02
+    - [] Map, Filter e Reduce
+* Funções
+* Conclusão
 <!--te-->
