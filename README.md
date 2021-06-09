@@ -9,8 +9,8 @@
 
 <!--ts-->
 * Introdução
-    * Introdução
-    * Terminais
+    - [x] Introdução
+    - [x] Terminais
 * [Tabela de Conteudo](#tabela-de-conteudo)
 * [Instalação](#instalacao)
 * [Como usar](#como-usar)
