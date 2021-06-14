@@ -38,7 +38,8 @@ const students = [
     { name: 'Peter', score: 9.1 }
 ]
 
-const getScore = el => el.score
+// (el, index, array)
+const getScore = (el, indice, array) => el.score
 
 // capturando somente as notas
 // [ 6.4, 8.6, 9.4, 9.1 ]

@@ -31,5 +31,10 @@
     - [x] Reduce #02
     - [x] Map, Filter e Reduce
 * Funções
+    - [x] Introdução do Módulo
+    - [x] Configuração do Ambiente
+    - [x] Alterando Nome Projeto
+    - [ ] Básico sobre Função #01
+    - [ ] Básico sobre Função #02
 * Conclusão
 <!--te-->
