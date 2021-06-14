@@ -26,10 +26,10 @@
     - [x] Map #01
     - [x] Map #02
     - [x] Filter #01
-    - [ ] Filter #02
-    - [ ] Reduce #01
-    - [ ] Reduce #02
-    - [ ] Map, Filter e Reduce
+    - [x] Filter #02
+    - [x] Reduce #01
+    - [x] Reduce #02
+    - [x] Map, Filter e Reduce
 * Funções
 * Conclusão
 <!--te-->
