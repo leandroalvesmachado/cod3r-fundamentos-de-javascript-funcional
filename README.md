@@ -36,5 +36,7 @@
     - [x] Alterando Nome Projeto
     - [ ] Básico sobre Função #01
     - [ ] Básico sobre Função #02
+    - [ ] Desafio #01
+    - [ ] Básico sobre Função #03
 * Conclusão
 <!--te-->
