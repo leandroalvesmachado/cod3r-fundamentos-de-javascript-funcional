@@ -34,9 +34,9 @@
     - [x] Introdução do Módulo
     - [x] Configuração do Ambiente
     - [x] Alterando Nome Projeto
-    - [ ] Básico sobre Função #01
-    - [ ] Básico sobre Função #02
-    - [ ] Desafio #01
+    - [x] Básico sobre Função #01
+    - [x] Básico sobre Função #02
+    - [x] Desafio #01
     - [ ] Básico sobre Função #03
 * Conclusão
 <!--te-->
