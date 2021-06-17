@@ -38,5 +38,12 @@
     - [x] Básico sobre Função #02
     - [x] Desafio #01
     - [ ] Básico sobre Função #03
+    - [ ] Função Callback #01
+    - [ ] Função Callback #02
+    - [ ] Função Map #01
+    - [ ] Função Map #02
+    - [ ] Função Map #03
+    - [ ] Função Map #04
 * Conclusão
+    - [ ] Conclusão do Curso
 <!--te-->
