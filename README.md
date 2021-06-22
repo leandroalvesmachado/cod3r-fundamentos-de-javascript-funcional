@@ -37,13 +37,25 @@
     - [x] Básico sobre Função #01
     - [x] Básico sobre Função #02
     - [x] Desafio #01
-    - [ ] Básico sobre Função #03
-    - [ ] Função Callback #01
-    - [ ] Função Callback #02
-    - [ ] Função Map #01
-    - [ ] Função Map #02
-    - [ ] Função Map #03
-    - [ ] Função Map #04
+    - [x] Básico sobre Função #03
+    - [x] Função Callback #01
+    - [x] Função Callback #02
+    - [x] Função Map #01
+    - [x] Função Map #02
+    - [x] Função Map #03
+    - [x] Função Map #04
+    - [x] Função Filter #01
+    - [ ] Função Filter #02
+    - [ ] Função Filter #03
+    - [ ] Função Reduce #01
+    - [ ] Função Reduce #02
+    - [ ] Desafio Map, Reduce e Filter
+    - [ ] Desafio Map, Reduce e Filter - Resposta
+    - [ ] Função Reduce #03
+    - [ ] Promise #01
+    - [ ] Promise #02
+    - [ ] Promise #03
+    - [ ] Desafio Promise
 * Conclusão
     - [ ] Conclusão do Curso
 <!--te-->
