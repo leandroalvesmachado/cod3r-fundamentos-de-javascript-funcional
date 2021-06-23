@@ -45,17 +45,25 @@
     - [x] Função Map #03
     - [x] Função Map #04
     - [x] Função Filter #01
-    - [ ] Função Filter #02
-    - [ ] Função Filter #03
-    - [ ] Função Reduce #01
-    - [ ] Função Reduce #02
-    - [ ] Desafio Map, Reduce e Filter
-    - [ ] Desafio Map, Reduce e Filter - Resposta
+    - [x] Função Filter #02
+    - [x] Função Filter #03
+    - [x] Função Reduce #01
+    - [x] Função Reduce #02
+    - [x] Desafio Map, Reduce e Filter
+    - [x] Desafio Map, Reduce e Filter - Resposta
     - [ ] Função Reduce #03
     - [ ] Promise #01
     - [ ] Promise #02
     - [ ] Promise #03
     - [ ] Desafio Promise
+    - [ ] Desafio Promise - Resposta
+    - [ ] Promise #04
+    - [ ] Async/Await #01
+    - [ ] Async/Await #02
+    - [ ] OO #01
+    - [ ] OO #02
+    - [ ] OO #03
+    - [ ] Conclusão Módulo
 * Conclusão
-    - [ ] Conclusão do Curso
+    - [x] Conclusão do Curso
 <!--te-->
