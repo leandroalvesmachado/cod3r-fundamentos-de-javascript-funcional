@@ -7,9 +7,9 @@ console.log(a)
 // console.log(typeof b)
 
 // promessa criada
-let p = new Promise(function(cumprimPromessa) {
+let p = new Promise(function(resolve) {
     // promessa passa apenas um unico valor
-    cumprimPromessa(3)
+    resolve(3)
 })
 
 // return a object
@@ -25,5 +25,17 @@ p.then(function(valor) {
 
 p.then(valor => console.log(valor))
 
+
+const primeiroElemento = arrayOuString => arrayOuString[0]
+const primeiraLetra = string => string[0]
+const letraMinuscula = letra => letra.toLowerCase()
+
+new Promise(function(resolve) {
+    resolve(['Ana', 'Bia', 'Carlos', 'Daniel'])
+})
+    .then(primeiroElemento)
+    .then(primeiraLetra)
+    .then(letraMinuscula)
+    .then(console.log)
 
 
