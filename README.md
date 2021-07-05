@@ -51,19 +51,19 @@
     - [x] Função Reduce #02
     - [x] Desafio Map, Reduce e Filter
     - [x] Desafio Map, Reduce e Filter - Resposta
-    - [ ] Função Reduce #03
-    - [ ] Promise #01
-    - [ ] Promise #02
-    - [ ] Promise #03
-    - [ ] Desafio Promise
-    - [ ] Desafio Promise - Resposta
-    - [ ] Promise #04
-    - [ ] Async/Await #01
-    - [ ] Async/Await #02
-    - [ ] OO #01
-    - [ ] OO #02
-    - [ ] OO #03
-    - [ ] Conclusão Módulo
+    - [x] Função Reduce #03
+    - [x] Promise #01
+    - [x] Promise #02
+    - [x] Promise #03
+    - [x] Desafio Promise
+    - [x] Desafio Promise - Resposta
+    - [x] Promise #04
+    - [x] Async/Await #01
+    - [x] Async/Await #02
+    - [x] OO #01
+    - [x] OO #02
+    - [x] OO #03
+    - [x] Conclusão Módulo
 * Conclusão
     - [x] Conclusão do Curso
 <!--te-->
