@@ -1,3 +1,4 @@
+// funcao construtora
 function Produto(nome, preco, desc = 0.15) {
     // atributos publicos
     this.nome = nome
